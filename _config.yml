@@ -21,7 +21,7 @@ subtitle: "Seismic Design Team"
 # root of your server.
 # baseurl: "/" # the subpath of your site
 url: "http://McMasterSDK.github.io" # the base hostname & protocol for your site
-baseurl: "/McMaster-SDK"
+baseurl: "/McMasterSDK"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
